@@ -87,6 +87,7 @@ h1 {
     border: 5px solid #04AA6D;
     display: flex;
     /* justify-content: center; */
+    /* justify-content: space-between; */
     justify-content: space-between;
 }
 
