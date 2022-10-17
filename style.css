@@ -26,7 +26,7 @@
 h1 {
     text-transform: uppercase;
     color: white;
-    background-color: darkslategrey;
+    background-color: cyan;
     padding: 20px;
     text-align: center;
     font-size: 2rem;
@@ -76,4 +76,6 @@ h1 {
     background-color: #93ff99;
     flex-grow: 3;
 }
+
+
 
