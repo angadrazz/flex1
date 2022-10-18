@@ -100,7 +100,7 @@ h1 {
 
   /* Code: Flex Balls 4 */
 
-  #circle, #circles {
+  #circle{
     width: 330px;
     height: 240px;
     background-color: #ffffff;
@@ -110,6 +110,19 @@ h1 {
     justify-content: space-between;
 
 }
+
+#circles {
+    width: 330px;
+    height: 240px;
+    background-color: #ffffff;
+    margin: 100px auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
 
 #circle div, #circles div {
     border-radius: 50%;
