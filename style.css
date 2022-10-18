@@ -107,6 +107,8 @@ h1 {
     margin: 100px auto;
     border: 1px solid black;
     display: flex;
+    flex-direction: row;
+
 }
 
 #circle div, #circles div {
