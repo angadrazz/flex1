@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    flex-wrap: nowrap;
+}
+.flex-container > div {
+    background-color: #e80f0f;
+    width: 50px;
+    margin: 10px;
+}
