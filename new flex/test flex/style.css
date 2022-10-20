@@ -5,3 +5,10 @@
     border: 2px solid yellow;
     overflow-wrap: break-word;
 }
+
+#box {
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    background-image: linear-gradient(red 60%, blue 30%, yellow 40%);
+}
